@@ -1,0 +1,121 @@
+[
+  {
+    "PlayerName": "Virat Kohli",
+    "playerlng": "ENG",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 2000000
+  },
+  {
+    "PlayerName": "Rashid Khan",
+    "playerlng": "PS",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-hand bat",
+    "price": 1800000
+  },
+  {
+    "PlayerName": "Ben Stokes",
+    "playerlng": "ENG",
+    "origin": "England",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Left-hand bat",
+    "price": 2200000
+  },
+  
+  {
+    "PlayerName": "Babar Azam",
+    "playerlng": "ENG",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 1950000
+  },
+  {
+    "PlayerName": "Glenn Maxwell",
+    "playerlng": "ENG",
+    "origin": "Australia",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 1850000
+  },
+  {
+    "PlayerName": "Trent Boult",
+    "playerlng": "ENG",
+    "origin": "New Zealand",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingStyle": "Right-hand bat",
+    "price": 1750000
+  },
+  {
+    "PlayerName": "Quinton de Kock",
+    "playerlng": "ENG",
+    "origin": "South Africa",
+    "playerType": "Wicket-keeper",
+    "bowlingStyle": "None",
+    "battingStyle": "Left-hand bat",
+    "price": 1800000
+  },
+  {
+    "PlayerName": "Sunil Narine",
+    "playerlng": "ENG",
+    "origin": "West Indies",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Left-hand bat",
+    "price": 1900000
+  },
+  {
+    "PlayerName": "Rohit Sharma",
+    "playerlng": "ENG",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 2100000
+  },
+  {
+    "PlayerName": "Shaheen Afridi",
+    "playerlng": "PS",
+    "origin": "Pakistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast",
+    "battingStyle": "Left-hand bat",
+    "price": 2000000
+  },
+  {
+    "PlayerName": "David Warner",
+    "playerlng": "ENG",
+    "origin": "Australia",
+    "playerType": "Batsman",
+    "bowlingStyle": "Legbreak",
+    "battingStyle": "Left-hand bat",
+    "price": 1700000
+  },
+  {
+    "PlayerName": "Hardik Pandya",
+    "playerlng": "ENG",
+    "origin": "India",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Right-hand bat",
+    "price": 2150000
+  },
+  {
+    "PlayerName": "Kagiso Rabada",
+    "playerlng": "ENG",
+    "origin": "South Africa",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Left-hand bat",
+    "price": 1900000
+  }
+
+]
