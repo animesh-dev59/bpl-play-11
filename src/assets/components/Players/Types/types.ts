@@ -5,5 +5,7 @@ export interface Iplayer{
   playerType:string,
   bowlingStyle:string,
   battingStyle:string,
-  price:number;
+  price:number,
+
 }
+
